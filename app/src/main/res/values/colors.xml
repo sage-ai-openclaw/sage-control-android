@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sage_green_500">#38873D</color>
+    <color name="sage_green_700">#166D24</color>
+    <color name="sage_green_900">#002203</color>
+    <color name="slate_900">#0F172A</color>
+    <color name="slate_800">#1E293B</color>
+    <color name="slate_700">#334155</color>
+    <color name="slate_100">#F1F5F9</color>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Sage Control</string>
+    <string name="title_sessions">Sessions</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_widgets">Widgets</string>
+    <string name="title_settings">Settings</string>
+    <string name="hint_token">OpenClaw Token</string>
+    <string name="hint_server_url">Server URL</string>
+    <string name="btn_connect">Connect</string>
+    <string name="placeholder_message">Type a message...</string>
+    <string name="new_session">New Session</string>
+    <string name="empty_sessions">No sessions yet</string>
+    <string name="empty_sessions_desc">Create your first session to start chatting with Sage</string>
+    <string name="archived">Archived</string>
+    <string name="trash">Trash</string>
+    <string name="connected">Connected</string>
+    <string name="connecting">Connecting...</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="cancel">Cancel</string>
+    <string name="recording">Recording...</string>
+    <string name="transcribing">Transcribing...</string>
+</resources>

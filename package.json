@@ -1,0 +1,10 @@
+{
+  "name": "sage-control-android",
+  "version": "1.0.0",
+  "description": "Sage Control Android - Native Kotlin App",
+  "scripts": {
+    "android": "./gradlew assembleDebug",
+    "build": "./gradlew assembleDebug --no-daemon"
+  },
+  "private": true
+}
