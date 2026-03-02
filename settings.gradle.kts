@@ -1,2 +1,2 @@
 rootProject.name = "Sage Control"
-include ':app'
+include(":app")
